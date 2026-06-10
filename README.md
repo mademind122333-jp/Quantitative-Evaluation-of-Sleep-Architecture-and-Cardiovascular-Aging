@@ -1,0 +1,2 @@
+# Quantitative-Evaluation-of-Sleep-Architecture-and-Cardiovascular-Aging
+Is project mein ek data-driven framework ka istemal karke sleep architecture aur chronological aging ke beech ke statistical relationships ko analyze kiya gaya hai. Is research ka main focus ek naya metric, Harendra Recovery Efficiency Score (HRES), develop karna hai jo occupational stress aur sleep quality ko effectively quantify karta hai.  
